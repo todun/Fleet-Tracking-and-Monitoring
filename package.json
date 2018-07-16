@@ -1,0 +1,16 @@
+{
+  "name": "Drone Real Time Location Tracking",
+  "version": "0.0.1",
+  "description": "A Single page realtime drone location tracking app",
+  "main": "app.js",
+  "author": "Sateesh Peetha",
+  "private": false,
+  "license": "BSD",
+  "dependencies": {
+    "express": "4.13.4",
+    "socket.io": "^2.1.1"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
