@@ -5,9 +5,9 @@
       }
 
       .sidebar {
-       width: 15%
-       box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-      }
+       width: 15%;
+       float: left;
+            }
       #map {
         height: 85%;
         width: 85%;
@@ -20,3 +20,8 @@
         margin: 40;
         padding: 0;
       }
+      
+      .column {
+          float: left;
+          
+}
