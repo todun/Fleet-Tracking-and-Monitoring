@@ -65,7 +65,7 @@ var activeHTML = ' ';
 for ( i in dronespeed ) {
 
 //console.log("test...");
-	activeHTML = activeHTML + ' <br> Drone ' + i + ' - ' +  dronespeed[i] + ' MPH  ';
+	activeHTML = activeHTML + ' <div class="button"> Drone ' + i + ' - ' +  dronespeed[i] + ' Mp/H </div> ';
 
 }
 
