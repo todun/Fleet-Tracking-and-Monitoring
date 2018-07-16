@@ -27,5 +27,5 @@ Drone simulation test module is created due to practical limitation to access GP
 ## Tech Stack
 ### Node.js -- server side scripting
 ### Socket.io -- real time location updates
-### Angular and Google Maps for front end
+### Google Maps for maps
 ### Resin.io for managing and deploying, continuous integration to embeded systems
